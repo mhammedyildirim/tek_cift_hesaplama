@@ -1,0 +1,6 @@
+C:\Users\muhammed\Desktop\odev_son\tek_cift_hesaplama\tek_cift_hesaplama\bin\Debug\tek_cift_hesaplama.exe.config
+C:\Users\muhammed\Desktop\odev_son\tek_cift_hesaplama\tek_cift_hesaplama\bin\Debug\tek_cift_hesaplama.exe
+C:\Users\muhammed\Desktop\odev_son\tek_cift_hesaplama\tek_cift_hesaplama\bin\Debug\tek_cift_hesaplama.pdb
+C:\Users\muhammed\Desktop\odev_son\tek_cift_hesaplama\tek_cift_hesaplama\obj\Debug\tek_cift_hesaplama.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\odev_son\tek_cift_hesaplama\tek_cift_hesaplama\obj\Debug\tek_cift_hesaplama.exe
+C:\Users\muhammed\Desktop\odev_son\tek_cift_hesaplama\tek_cift_hesaplama\obj\Debug\tek_cift_hesaplama.pdb
